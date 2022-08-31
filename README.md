@@ -1,6 +1,4 @@
-### Hello, I'm Anton 👋
-
----
+# Hello, I'm Anton 👋
 
 Hi, I'm Anton Zyrianov, self-taught Front End Developer.
 
