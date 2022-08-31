@@ -1,6 +1,10 @@
 ### Hello, I'm Anton 👋
 
+---
+
 Hi, I'm Anton Zyrianov, self-taught Front End Developer.
+
+---
 
 🎓 I've finished Ironhack, to become a Front End developer.
 
